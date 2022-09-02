@@ -9,3 +9,4 @@
 8-James_Bond - James bond
 9-John_Doe - John Doe
 10-mirror_permissions - Look in the mirror
+11-directories_permissions - directory permissions
