@@ -13,4 +13,4 @@
 12-directory_permissions - more directories
 13-change_group - Change group
 100-change_owner_and_group - Vincent staff
-101-symbolic_link_permissions - Vincebt staff hello
+101-symbolic_link_permissions - Vincent staff
