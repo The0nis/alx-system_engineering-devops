@@ -10,4 +10,4 @@
 9-John_Doe - John Doe
 10-mirror_permissions - Look in the mirror
 11-directories_permissions - directory permissions
-12-directory_permissions - more directions
+12-directory_permissions - more directoriess
