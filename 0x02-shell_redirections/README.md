@@ -13,4 +13,5 @@
 12-newest_files - what's new
 13-unique - unique
 14-findthatword - Find that word
+15-countthatword - count that word
 
