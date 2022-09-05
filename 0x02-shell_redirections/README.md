@@ -15,4 +15,5 @@
 14-findthatword - Find that word
 15-countthatword - count that word
 17-hidethisword - i hate bins
+16-whatsnext -whsts next
 
