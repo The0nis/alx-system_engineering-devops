@@ -22,6 +22,7 @@
 21-reverse - esreveR
 22-users_and_homes - DJ Cut Killer
 100-empty_casks - Empty casks make the most noise
-101-gifs - 
+101-gifs - A gif is worth ten thousand words
 102-acrostic - Acrostic
+103-the_biggest_fan - The biggest fan
 
