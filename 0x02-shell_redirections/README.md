@@ -3,5 +3,6 @@
 2-hellofile - Let display a file
 3-twofiles - Two file
 4-lastlines - Last line of a files
-5-firstlines - First lines
+5-firstlines - First line
+6-third_line - Third files
 
