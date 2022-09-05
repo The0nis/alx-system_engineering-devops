@@ -8,4 +8,5 @@
 7-file - It is a good file that cuts iron without making a noise
 8-cwd_state - Save current state of directory
 9-duplicate_last_line - Duplicate last name
+10-no_more_js - no more js
 
