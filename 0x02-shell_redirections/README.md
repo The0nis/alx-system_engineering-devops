@@ -16,4 +16,5 @@
 15-countthatword - count that word
 17-hidethisword - i hate bins
 16-whatsnext -whsts next
+18-letteronly - Letters only please
 
