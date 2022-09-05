@@ -17,4 +17,5 @@
 17-hidethisword - i hate bins
 16-whatsnext -whsts next
 18-letteronly - Letters only please
+19-AZ - A to Z
 
