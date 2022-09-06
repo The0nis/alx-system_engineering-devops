@@ -5,3 +5,4 @@
 4-global_variables - create environment variables
 5-local_variable
 7-create_global_variables
+8-true_knowledge - Every addition to true knowledge is an addition to human power
