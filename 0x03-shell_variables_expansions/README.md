@@ -8,3 +8,4 @@
 8-true_knowledge - Every addition to true knowledge is an addition to human power
 9-divide_and_rule - divide and rule
 10-love_exponent_breath
+11-binary_to_decimal
